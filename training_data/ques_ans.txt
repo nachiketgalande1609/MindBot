@@ -1,0 +1,30 @@
+Hello
+Are you ready so that we can proceed to our session ?
+Yes
+You are here cause you're in distress.<br>Can you tell me how are you feeling right now ?<br>Are you SAD because of something or are you feeling AFRAID or is it ANGER?
+Sad
+Is it because you feel LONELY or you feel HEARTBROKEN or is it a feeling of DISAPPOINTMENT?
+Lonely
+I would suggest some techniques to deal with Loneliness :<br>1. Identify the reasons why you feel lonely.<br>2. Practice meditation.<br>3. Realize that you aren't alone.<br>4. Do some social activities<br>5. Spend time with your family.<br>6. Consider joining a gym.<br><br>If you need more help <a href="https://www.wikihow.com/Deal-With-Loneliness" target="popup">Click Here</a><br><br>Would you like to contact a psychotherapist?
+Heartbroken
+I would suggest some techniques that will help you overcome Heartbreak :<br>1. Focus on something else that you love through this time.<br> 2. Talk to someone you feel comfortable with.<br>3. Focus on thing you love.<br>4. If you can afford it, seek therapy so you can vent without any issues.<br><br>If you need more help <a href="https://www.wikihow.com/Overcome-Heartbreak" target="popup">Click Here</a><br><br>Would you like to contact a psychotherapist?
+Disappointment
+I would suggest some techniques to deal with Disappointment :<br>1. Give yourself time to mourn.<br>2. Talk it out to someone.<br>3. Examine you expectations.<br>4. Try a different approach to do things.<br>5. Develop Determination<br><br>If you need more help <a href="https://www.wikihow.com/Handle-Disappointment" target="popup">Click Here</a><br><br>Would you like to contact a psychotherapist?
+afraid
+Are you WORRIED about something or is it a feeling of NERVOUSNESS or are you being DOUBTFUL
+Worried
+I would suggest some techniques that will help you if you're worried :<br>1. Breathe Deeply.<br>2. Relax and get enough rest.<br>3. Talk to a friend.<br>4. Distract yourself.<br><br>If you need more help <a href="https://www.wikihow.com/Deal-With-Worry" target="popup">Click Here</a><br><br>Would you like to contact a psychotherapist?
+Nervousness
+I would suggest some techniques that will help you handle Nervousness :<br>1. Practice whatever makes you nervous.<br>2. Think positively.<br>3. Relax your body.<br>4. Get some exercise.<br><br>If you need more help <a href="https://www.wikihow.com/Overcome-Nervousness" target="popup">Click Here</a><br><br>Would you like to contact a psychotherapist?
+Doubtful
+I would suggest some techniques that will help you :<br>1. Practice meditation.<br>2. Change the way you look at failure.<br>3. Give yourself credit for things that you do well.<br>4. Learn to tolerate uncertainty.<br><br>If you need more help <a href="https://www.wikihow.com/Let-Go-of-Doubts" target="popup">Click Here</a><br><br>Would you like to contact a psychotherapist?
+Anger
+Are you feeling ANNOYED or you're FRUSTRATED about something or feeling CHEATED
+Annoyed
+I would suggest some techniques that will help you if you're feeling annoyed :<br>1. Figure out the source.<br>2. Get quiet or alone time.<br>3. Get in touch with your compassion.<br><br>If you need more help <a href="https://edition.cnn.com/2016/07/14/health/stop-being-annoyed-wisdom-project/index.html" target="popup">Click Here</a><br><br>Would you like to contact a psychotherapist?
+Frustrated
+I would suggest some techniques that will help you if you're feeling frustrated :<br>1. Learn what triggers your frustration.<br>2. Avoid your triggers whenever possible.<br>3. Spend time with supportive people.<br>4. Exercise to reduce stress.<br><br>If you need more help <a href="https://www.wikihow.com/Cope-With-Frustration" target="popup">Click Here</a><br><br>Would you like to contact a psychotherapist?
+Cheated
+I would suggest some techniques that will help you if you're feeling cheated :<br>1. Consider seeing a counselor.<br>2. Seek support from friends or family.<br>3. Discuss with the cheater why they cheated on you.<br>4. Realize that there is no excuse for cheating, it is not your fault, and it is a selfish act by the cheater.<br><br>If you need more help <a href="https://www.wikihow.com/Overcome-Being-Cheated-On" target="popup">Click Here</a><br><br>Would you like to contact a psychotherapist?
+Yes
+contact me
